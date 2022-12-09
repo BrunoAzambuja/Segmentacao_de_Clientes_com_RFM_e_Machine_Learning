@@ -1,1 +1,1 @@
-# Segmentacao_de_Clientes_com_RFM_e_Machine_Learning
+# Segmentacao_de_clientes_com_analise_RFM
